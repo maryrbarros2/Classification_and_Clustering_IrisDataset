@@ -1,4 +1,6 @@
 # Classification_and_Clustering_IrisDataset
+- KNN (k-nearest neighbors) Classification Algorithm
+- K-Means Clustering Algorithm
 
 https://archive.ics.uci.edu/ml/datasets/Iris/
 
